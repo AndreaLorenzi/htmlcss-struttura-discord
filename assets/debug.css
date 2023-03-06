@@ -1,0 +1,15 @@
+body{
+    width: auto;
+    height: auto;
+}
+header{
+    background-color: cyan;
+    display: flex;
+    width: auto;
+    height: 50px;
+}
+
+footer{
+    background-color: rgb(55, 54, 54);
+
+}
