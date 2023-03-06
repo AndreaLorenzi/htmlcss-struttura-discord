@@ -7,11 +7,11 @@
 
 .logo{
     width:  1200px;
-    height: 35px;
+    height: 50px;
     margin: auto;
     display: flex;
     justify-content: center;
-    padding-top: 7.5px;
+    padding-top: 20px;
 
  
 }
@@ -20,8 +20,9 @@
     display: flex ;
     background-color: orange;
     width: 70%;
-    height: 20px;
+    height: 25px;
     justify-content: center;
+    align-items: center;
     border: 1px dashed black;
 }
 
@@ -29,8 +30,10 @@
     display: flex;
     background-color: orange;
     width: 15%;
-    height: 20px;
+    height: 25px;
     border: 1px dashed black;
+    align-items: center;
+    justify-content:start;
 }
 .ocra-login{
     display: flex;
@@ -40,14 +43,14 @@
 .conteiner-blue{
     background-color: blue;
     margin: auto;
-    height: 300px;
+    height: 600px;
     display: flex;
     justify-content: center;
 }
 
 .viola{
     background-color: violet;
-    height: 200px;
+    height: 400px;
     width: 1000px;
     border: 1px dashed black;
     margin: auto;
@@ -56,30 +59,30 @@
 .conteiner-white{
     background-color: white;
     margin: auto;
-    height: 300px;
+    height: 600px;
     display: flex;
     justify-content: center;
 }
 
 .azure{
-    height: 250px;
+    height: 500px;
     width: 840px;
     background-color: dodgerblue;
-    margin-top: 25px;
+    margin-top: 50px;
     border: 1px dashed black;
 }
 .rosa{
-    height: 250px;
+    height: 500px;
     width: 360px;
     background-color: pink;
-    margin-top: 25px;
+    margin-top: 50px;
     border: 1px dashed black;
 }
 
 .conteiner-grey{
     background-color: grey;
     margin: auto;
-    height: 300px;
+    height: 600px;
     display: flex;
     justify-content: center;
 }
@@ -87,14 +90,67 @@
 .conteiner-rgb{
     background-color: grey;
     margin: auto;
-    height: 550px;
+    height: 1200px;
     display: flex;
     justify-content: center;
 }
 .green{
-    height: 500px;
+    height: 900px;
     width: 1200px;
     background-color: green;
-    margin-top: 25px;
+    margin-top: 150px;
     border: 1px dashed black;
+}
+
+.conteiner-dark{
+    background-color: rgb(27, 26, 26);
+    margin: auto;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+
+.salmon{
+    height: 500px;
+    width: 400px;
+    background-color: salmon;
+    border: 1px dashed black;
+    margin-top: 50px;
+}
+
+.tiffany{
+    height: 500px;
+    width: 200px;
+    background-color: olive;
+    border: 1px dashed white;
+    margin-top: 50px;
+}
+.footer{
+    width:  1200px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aquamarine;
+
+}
+
+.logo-footer{
+    width: auto;
+    height: auto;
+    background-color: lightpink;
+    border: 1px dashed black;
+    display: flex;
+
+}
+
+.bottone{
+    width: auto;
+    height: auto;
+    background-color: lightpink;
+    border: 1px dashed black;
+    display: flex;
+
+
 }
