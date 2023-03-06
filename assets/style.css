@@ -83,3 +83,18 @@
     display: flex;
     justify-content: center;
 }
+
+.conteiner-rgb{
+    background-color: grey;
+    margin: auto;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+}
+.green{
+    height: 500px;
+    width: 1200px;
+    background-color: green;
+    margin-top: 25px;
+    border: 1px dashed black;
+}
